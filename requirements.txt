@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+aiohttp
+beautifulsoup4
+opencv-python
+numpy
+pytesseract
