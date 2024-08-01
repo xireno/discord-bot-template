@@ -31,7 +31,6 @@ content should be `DISCORD_BOT_TOKEN=your_token_here`
 
 ### Music Commands
 
-### Music Commands
 - `!play [URL]`  - Plays a song from a YouTube or Spotify URL, or shows the current queue if no URL is provided.
 
 - `!pause`  - Pauses the current song.
