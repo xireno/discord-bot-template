@@ -1,6 +1,6 @@
 # DiscordBotTemplate
 
-below is the english translation for the instructions
+below is the English translation for the instructions
 
 A cutting-edge Discord bot that's packed with features and commands to elevate your server experience. With this template, you can create a bot that's tailored to your community's unique needs.
 ## Installation
