@@ -79,7 +79,7 @@ content should be `DISCORD_BOT_TOKEN=your_token_here`
 - 複製存儲庫：
 
 ```bash
-git clone https://github.com/xireno/discordbotbase.git
+git clone https://github.com/xireno/discord-bot-template.git
 cd discordbot
 npm install
 ```
