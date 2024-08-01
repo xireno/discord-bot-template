@@ -9,7 +9,7 @@ A cutting-edge Discord bot that's packed with features and commands to elevate y
 
 
 ```bash
-git clone https://github.com/xireno/discordbotbase.git
+git clone https://github.com/xireno/discord-bot-template.git
 
 cd discordbot
 
