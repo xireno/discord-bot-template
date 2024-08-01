@@ -9,11 +9,7 @@ A cutting-edge Discord bot that's packed with features and commands to elevate y
 
 
 ```bash
-git clone https://github.com/xireno/discord-bot-template.git
-
-cd discordbot
-
-npm install
+git clone https://github.com/xireno/discord-bot-template.git
 ```
 ### Prerequisites
 
@@ -79,9 +75,7 @@ content should be `DISCORD_BOT_TOKEN=your_token_here`
 - 複製存儲庫：
 
 ```bash
-git clone https://github.com/xireno/discord-bot-template.git
-cd discordbot
-npm install
+git clone https://github.com/xireno/discord-bot-template.git
 ```
 
 ### 前置條件
